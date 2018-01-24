@@ -16,4 +16,6 @@ Meanwhile, I am using this website to practice on HTML and Javascript. LOL!
    
 If you see any potenial cooperation opportunities, please don't hesitate! Contact me!!! 
 
-<> test for comment in .md file
+"All models are wrong, but some are useful."
+
+                     -- George Box
